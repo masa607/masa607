@@ -1,4 +1,4 @@
-# Hi there, I'm [masa] 👋
+# Hi there, I'm masa 👋
 
 ### 🚀 About Me
 - 🎓 **University**: 同志社大学 経済学部でデータ分析・計量経済学を専攻
