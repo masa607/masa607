@@ -1,10 +1,10 @@
 # Hi there, I'm [masa] 👋
 
 ### 🚀 About Me
-- 🎓 **University**: [同志社大学 経済学部でデータ分析・計量経済学を専攻]
-- 🌱 **Currently learning**: [Backend Architecture]
-- 💬 **Ask me about**: [Python, FastAPI]
-- ⚡ **Fun fact**: [運動やドラマ、アニメを見るのが好きです。最近はAtcoderにハマっています！]
+- 🎓 **University**: 同志社大学 経済学部でデータ分析・計量経済学を専攻
+- 🌱 **Currently learning**: Backend Architecture
+- 💬 **Ask me about**: Python, FastAPI
+- ⚡ **Fun fact**: 運動やドラマ、アニメを見るのが好きです。最近はAtcoderにハマっています！
 
 ---
 
@@ -24,5 +24,5 @@
 
 
 ### 📫 How to reach me
-- **X (Twitter)**: [masass07548]
-- **Email**: [jizomasa.06.07@gmail.com]
+- **X (Twitter)**: masass07548
+- **Email**: jizomasa.06.07@gmail.com
