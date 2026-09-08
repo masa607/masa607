@@ -22,13 +22,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masa607&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa607&layout=compact&theme=radial)
-
----
 
 ### 📫 How to reach me
-- **LinkedIn**: [https://github.com/masa607]
 - **X (Twitter)**: [masass07548]
 - **Email**: [jizomasa.06.07@gmail.com]
