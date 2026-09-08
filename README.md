@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm [masa] 👋
 
-<!--
-**masa607/masa607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **University**: [同志社大学 経済学部でデータ分析・計量経済学を専攻]
+- 🌱 **Currently learning**: [Backend Architecture]
+- 💬 **Ask me about**: [Python, FastAPI]
+- ⚡ **Fun fact**: [運動やドラマ、アニメを見るのが好きです。最近はAtcoderにハマっています！]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Databases**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![mySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masa607&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masa607&layout=compact&theme=radial)
+
+---
+
+### 📫 How to reach me
+- **LinkedIn**: [https://github.com/masa607]
+- **X (Twitter)**: [masass07548]
+- **Email**: [jizomasa.06.07@gmail.com]
